@@ -1,3 +1,4 @@
+## About me
 - Hi, I’m @Canmi21
 - I’m interested in Hardware & Software Java C C++ MicroPython
 - I’m currently learning TOFEL STM32(ARM) Minecraft ArchLinux
@@ -13,6 +14,7 @@
 </a>
 </div>
 
+## Active
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/main/assets/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/main/assets/github-contribution-grid-snake.svg">
