@@ -6,6 +6,7 @@
 - Pronouns: Canmi? Mican¿
 - Fun fact?! I'm not gonna tell you^
 
+![](https://raw.githubusercontent.com/Canmi21/Canmi21/main/assets/github-contribution-grid-snake.svg)
 <!---
 Canmi21/Canmi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
