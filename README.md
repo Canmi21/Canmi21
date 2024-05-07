@@ -20,6 +20,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Canmi21)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Canmi21)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/main/assets/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/main/assets/github-contribution-grid-snake.svg">
