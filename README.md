@@ -1,11 +1,5 @@
 ## About me
-- Hi, I’m @Canmi21
-- I’m interested in Hardware & Software Java C C++ MicroPython
-- I’m currently learning TOFEL STM32(ARM) Minecraft ArchLinux
-- I’m looking to collaborate on C & C++
-- How to reach me @Canmi_(BiliBili) 
-- Pronouns: Canmi? Mican¿
-- Fun fact?! I'm not gonna tell you^
+- Hi, I’m Canmi
 
 ## Connect with me  
 <div align="center">
