@@ -2,7 +2,7 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # 每天运行一次
   workflow_dispatch:
 
 jobs:
@@ -10,18 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate snake game
         uses: Platane/snk@master
         with:
           github_user_name: Canmi21
-          output: dist/snake.svg
+          svg_out_path: dist/snake.svg
 
-      - name: Push generated snake game to the repository
-        uses: EndBug/add-and-commit@v7
+      - name: Commit and push the generated snake game
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          add: 'dist/snake.svg'
-          message: 'Add generated snake game'
-          author_name: 'github-actions'
-          author_email: 'github-actions@github.com'
+          commit_message: 'Add generated snake game'
+          file_pattern: dist/snake.svg
+          branch: main
