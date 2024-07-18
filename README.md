@@ -16,8 +16,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/main/assets/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/main/assets/github-contribution-grid-snake.svg">
 
-![Snake animation](https://github.com/Canmi21/Canmi21/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Canmi21/Canmi21/blob/main/dist/snake.svg)
 
 <!--
 Canmi21/Canmi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
