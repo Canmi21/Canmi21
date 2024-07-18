@@ -13,10 +13,8 @@
 ![Canmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Canmi21&show_icons=true&theme=radical)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/main/assets/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/main/assets/github-contribution-grid-snake.svg">
-
-![Snake animation](https://github.com/Canmi21/Canmi21/blob/main/dist/github-user-contribution.svg)
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/output/assets/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/output/assets/github-contribution-grid-snake.svg">
 
 <!--
 Canmi21/Canmi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
