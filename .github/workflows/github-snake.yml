@@ -18,7 +18,7 @@ jobs:
           node-version: '20'
 
       - name: Generate snake game
-        uses: Platane/snk@v2.0.1
+        uses: Platane/snk@v2
         with:
           github_user_name: Canmi21
           outputs: dist
