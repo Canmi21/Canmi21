@@ -6,8 +6,6 @@
 <img width="66%" src="https://github-profile-trophy.vercel.app/?username=Canmi21&column=5&margin-w=5&margin-h=5&theme=discord"/>
 </p>
 
-![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Canmi21&layout=compact&include_all_commits=true&theme=merko)
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Canmi21" target="_blank">
@@ -23,6 +21,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Canmi21/Canmi21/output/github-contribution-grid-snake.svg">
 </picture>
+
+![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Canmi21&layout=compact&include_all_commits=true&theme=merko)
 
 <!--
 **Canmi21/Canmi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
