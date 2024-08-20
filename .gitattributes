@@ -4,6 +4,7 @@ test/ export-ignore
 TESTING.md export-ignore
 Vagrantfile export-ignore
 *.html linguist-detectable=false
+*.md linguist-detectable=true
 *.yml linguist-detectable=true
 *.yaml linguist-detectable=true
 *.yml linguist-detectable=true
