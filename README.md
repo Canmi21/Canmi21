@@ -1,24 +1,17 @@
 <p align="center">
     <img align="center" src="https://komarev.com/ghpvc/?username=Canmi21"/>
+    <a href="https://github.com/Canmi21?tab=repositories"><img align="center" src="https://img.shields.io/badge/GitHub-Repositories-blue?style=flat&labelColor=gray"/></a>
     <img align="center" src="https://img.shields.io/github/stars/canmi21?style=flat&label=Total%20Stars"/> 
     <img align="center" src="https://img.shields.io/github/followers/Canmi21?style=flat&label=Followers"/>
     <img align="center" src="https://img.shields.io/badge/Twitter-%40Canmi21-blue?style=flat&labelColor=gray"/>
-
+    <a href="https://canmi21.github.io"><img align="center" src="https://img.shields.io/badge/Blog-Hexo-blue?style=flat&labelColor=gray"/></a>
+    <img align="center" src="https://img.shields.io/badge/Love-You-blue?style=flat&labelColor=gray"/>
 </p>
+
 
 <p align="center">
 <img width="66%" src="https://github-profile-trophy.vercel.app/?username=Canmi21&column=5&margin-w=5&margin-h=5&theme=discord"/>
 </p>
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Canmi21" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Canmi21" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/output/github-contribution-grid-snake-dark.svg">
