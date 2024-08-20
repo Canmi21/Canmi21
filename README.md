@@ -1,5 +1,9 @@
 <p align="center">
     <img align="center" src="https://komarev.com/ghpvc/?username=Canmi21"/>
+    <img align="center" src="https://img.shields.io/github/stars/canmi21?style=flat&label=Total%20Stars"/> 
+    <img align="center" src="https://img.shields.io/github/followers/Canmi21?style=flat&label=Followers"/>
+    <img align="center" src="https://img.shields.io/badge/Twitter-%40Canmi21-blue?style=flat&labelColor=gray"/>
+
 </p>
 
 <p align="center">
