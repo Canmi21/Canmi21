@@ -6,7 +6,7 @@
     <img align="center" src="https://img.shields.io/badge/Twitter-%40Canmi21-blue?style=flat&labelColor=gray"/>
     <a href="https://arc.canmi.icu"><img align="center" src="https://img.shields.io/badge/Blog-Building-blue?style=flat&labelColor=gray"/></a>
 </p>
-
+# hi
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Canmi21&theme=dracula" alt="Profile Details" style="max-width: 100%; width: 685px;">
 </div>
