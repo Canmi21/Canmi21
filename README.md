@@ -1,20 +1,31 @@
-<p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=Canmi21"/>
-    <img align="center" src="https://img.shields.io/github/stars/canmi21?style=flat&label=Total%20Stars"/> 
-    <img align="center" src="https://img.shields.io/github/followers/Canmi21?style=flat&label=Followers"/>
-    <a href="https://github.com/Canmi21?tab=repositories"><img align="center" src="https://img.shields.io/badge/GitHub-Repositories-blue?style=flat&labelColor=gray"/></a>
-    <img align="center" src="https://img.shields.io/badge/Twitter-%40Canmi21-blue?style=flat&labelColor=gray"/>
-    <a href="https://arc.canmi.icu"><img align="center" src="https://img.shields.io/badge/Blog-Building-blue?style=flat&labelColor=gray"/></a>
-</p>
+```fish
+Last login: Fri Mar  6 14:23:01 2026 from 10.10.10.121
+Welcome to Alpine 3.23.3 (musl/Linux 6.8.0-generic x86_64)
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Canmi21&theme=dracula" alt="Profile Details" style="max-width: 100%; width: 685px;">
-</div>
+canmi@xyy:~$ whoami
+  🍰 OmniStack Developer | Lost in Code
 
-<div align="center" style="display: flex; justify-content: center; max-width: 600px; margin: 0 auto;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Canmi21&theme=dracula&exclude=html,Gerber%20Image" alt="Repos per Language" style="flex: 1; max-width: 50%;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Canmi21&theme=dracula&exclude=html,Gerber%20Image" alt="Most Commit Language" style="flex: 1; max-width: 50%;">
-</div>
+canmi@xyy:~$ ls lang/
+  Rust, Typescipt, Go, C, Zig, Bash, Lua (15 more hidden..)
+  🦀 : ████████░░░░ 65%
+  🔷 : ██░░░░░░░░░░ 16%
+  🥔 : █░░░░░░░░░░░ 8%
+  ❓ : █░░░░░░░░░░░ 7%
+
+canmi@xyy:~$ neofetch
+  OS: macOS Sequoia 15.7.3 & ArchLinux
+  Editor: VS Code & NeoVim (Lazy💤 )
+  Theme: Dark Mode ☁️
+
+canmi@xyy:~$ ping -c 3 twitter.com
+  64 bytes from x.com   : @Canmi21     ttl=64 time=0.4ms
+  64 bytes from x.com   : @Canmi21     ttl=64 time=0.3ms
+  64 bytes from x.com   : @Canmi21     ttl=64 time=0.2ms
+  --- 3 transmitted, 3 received, 0% packet loss ---
+
+  ^[[A^[[D
+Connection to host closed, Broken pipe.
+```
 
 <!-- ## Hi there 👋 -->
 
