@@ -6,7 +6,7 @@ canmi@xyy:~$ whoami
   🍰 OmniStack Developer | Lost in Code
 
 canmi@xyy:~$ ls lang/
-  Rust, Typescipt, Go, C, Zig, Bash, Lua (15 more hidden..)
+  Rust, TypeScript, Go, C, Zig, Bash, Lua (15 more hidden..)
   🦀 : ████████░░░░ 65%
   🔷 : ██░░░░░░░░░░ 16%
   🥔 : █░░░░░░░░░░░ 8%
